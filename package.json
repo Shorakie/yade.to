@@ -1,0 +1,13 @@
+{
+  "name": "yadeto",
+  "version": "0.0.0",
+  "description": "Yade.to in memory of the passed lives...",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "throw": "echo \"[ERROR] Throw Yaaaay\" && exit 1"
+  },
+  "author": "mhmdamin.jafari@gmail.com",
+  "license": "Apache-2.0"
+}
