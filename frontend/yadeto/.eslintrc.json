@@ -1,9 +1,5 @@
 {
-  "extends": [
-    "next",
-    "next/core-web-vitals",
-    "../../.eslintrc.json"
-  ],
+  "extends": ["next", "next/core-web-vitals", "../../.eslintrc.json"],
   "ignorePatterns": ["!**/*", ".next/**/*"],
   "overrides": [
     {
