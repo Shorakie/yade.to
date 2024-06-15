@@ -44,6 +44,9 @@ out
 # Dependency directories
 node_modules/
 
+# Testing and Coverage
+coverage
+
 # Logs
 logs
 *.log
